@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 
-
+# another additonal idea to make entering data easier for the user : give every city and month and day a number , for example : chicago : 1 , june : 6 , sunday : 2
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }

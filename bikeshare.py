@@ -1,7 +1,9 @@
 import time
 import pandas as pd
 
+# STAT function for every user
 
+# print statment for every user stats
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }

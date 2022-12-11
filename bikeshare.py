@@ -1,9 +1,13 @@
 import time
 import pandas as pd
 
+<<<<<<< HEAD
 # STAT function for every user
 
 # print statment for every user stats
+=======
+# another additonal idea to make entering data easier for the user : give every city and month and day a number , for example : chicago : 1 , june : 6 , sunday : 2
+>>>>>>> 38d9a3ac321d34d74b819762a03db01b5052c9b8
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
